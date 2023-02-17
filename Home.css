@@ -1,0 +1,25 @@
+body
+{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button 
+{
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #000000;
+    color:#ffffff
+}
+
+h2
+{
+    font-size: xx-large;
+}
+
+img
+{
+    width: 450px;
+    height: auto;
+}
